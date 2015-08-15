@@ -1,0 +1,36 @@
+h1 {	
+	color: #3B6D86; /*teal*/
+}
+h2 {
+	color: #763D32; /*dark rose*/
+}
+a {
+	color: #675446; /*wren*/
+	text-decoration: none;
+}
+
+
+/*change background-color: */
+body {
+	background-color: #74433E; /*rose*/
+}
+.content {
+	background-color: #9C94AC;	/*lavender*/
+}
+
+/*center content of site */
+.content {
+	width: 80%;
+	position: relative;
+	margin: auto;
+	padding: 5%;
+}
+
+
+/*change text's font */
+/*all p, li text everywhere will be*/
+p, li {
+	font-family: arial, sans-serif;
+}
+
+
